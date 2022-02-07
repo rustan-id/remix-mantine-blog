@@ -35,7 +35,7 @@
   "dependencies": {
     "@mantine/core": "^3.6.4",
     "@mantine/dates": "^3.6.4",
-    "@mantine/dropzone": "^3.6.4",
+    "@mantine/dropzone": "^3.6.6",
     "@mantine/hooks": "^3.6.4",
     "@mantine/modals": "^3.6.4",
     "@mantine/notifications": "^3.6.4",
