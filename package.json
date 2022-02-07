@@ -39,7 +39,7 @@
     "@mantine/hooks": "^3.6.4",
     "@mantine/modals": "^3.6.4",
     "@mantine/notifications": "^3.6.4",
-    "@mantine/prism": "^3.6.4",
+    "@mantine/prism": "^3.6.6",
     "@mantine/rte": "^3.6.4",
     "@mantine/ssr": "^3.6.4",
     "@remix-run/react": "^1.1.3",
